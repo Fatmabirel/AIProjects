@@ -27,6 +27,7 @@ class Program
             Console.WriteLine("OCR completed successfully. Output written to:");
             Console.WriteLine(recognizedText);
         }
+
         catch (Exception ex)
         {
             Console.WriteLine("An error occurred: " + ex.Message);
