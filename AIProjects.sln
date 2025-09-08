@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesseractOcr", "TesseractOc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCloudVision", "GoogleCloudVision\GoogleCloudVision.csproj", "{47ECA327-8ED7-4E1B-B0BF-7952B864ED8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translate", "Translate\Translate.csproj", "{5A9CEFAC-1C45-4DE0-B6A3-BF6373A72917}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{47ECA327-8ED7-4E1B-B0BF-7952B864ED8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47ECA327-8ED7-4E1B-B0BF-7952B864ED8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47ECA327-8ED7-4E1B-B0BF-7952B864ED8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9CEFAC-1C45-4DE0-B6A3-BF6373A72917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9CEFAC-1C45-4DE0-B6A3-BF6373A72917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9CEFAC-1C45-4DE0-B6A3-BF6373A72917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9CEFAC-1C45-4DE0-B6A3-BF6373A72917}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
